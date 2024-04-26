@@ -1,0 +1,12 @@
+.swiper-slide h5 a {
+    color: black !important;
+}
+
+.onovo-number .num {
+    color:black;
+    text-shadow: none !important;
+}
+
+.onovo-service-grid-item .image img {
+    max-height: 180px;
+}
