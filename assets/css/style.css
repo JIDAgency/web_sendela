@@ -676,7 +676,9 @@ body .onovo-text-black a {
 
 p {
   padding: 0;
-  margin: 20px 0;
+
+/* margin: 20px 0; */
+  
 }
 
 strong {
@@ -2984,9 +2986,12 @@ a.onovo-menu-btn,
   .onovo-menu {
     padding-left: 40px;
   }
+  
   .onovo-menu ul li {
+    /*---
     margin: 20px 0;
     font-size: 38px;
+    ---*/
   }
   .onovo-menu ul li a::before {
     left: -40px;
@@ -3169,6 +3174,16 @@ ul.onovo-footer-menu li {
   display: inline-block;
   width: 34px;
   height: 1em;
+}
+
+.onovo-sec {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  background: #000;
+  opacity: 0.35;
+  z-index: 2;
 }
 
 .onovo-sep .sep-img {
@@ -7965,3 +7980,11 @@ body div.wpforms-container .wpforms-form button.onovo-btn[type=submit],
 }
 
 /* --options end */
+
+.seccion-titulo{
+  background-color: rgba(0,0,0,1);
+}
+
+.c-blanco{
+  color: rgba(255,255,255,1);
+}
