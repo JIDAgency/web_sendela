@@ -245,3 +245,13 @@
     background-color: rgba(39,224,253,1);
     color: rgba(3,40,98,1);
 }
+
+.btn-menu{
+    background-color: rgba(0,0,0,1);
+    color: rgba(255,255,255,1);
+}
+
+.btn-menu:hover{
+    background-color: rgba(39,224,253,1);
+    color: rgba(255,255,255,1);
+}
