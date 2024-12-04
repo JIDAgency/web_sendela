@@ -258,11 +258,20 @@
 .btn-menu {
     background-color: rgba(0, 0, 0, 1);
     color: rgba(255, 255, 255, 1);
+    font-size: 0.7em;
+    width: 170px;
+    /* Ancho fijo */
+    height: 50px;
+    /* Alto fijo */
 }
 
 .btn-menu:hover {
     background-color: rgba(39, 224, 253, 1);
     color: rgba(255, 255, 255, 1);
+    width: 170px;
+    /* Ancho fijo */
+    height: 50px;
+    /* Alto fijo */
 }
 
 .footer--fixed .wrapper {
