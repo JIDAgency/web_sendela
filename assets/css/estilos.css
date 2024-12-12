@@ -253,10 +253,16 @@
 .btn-califica {
     background-color: rgba(39, 224, 253, 1);
     color: rgba(3, 40, 98, 1);
-    width: 350px;
+    width: 330px;
     height: 50px;
     font-size: 0.9em;
 
+}
+
+.btn-boletos {
+    background-color: rgba(39, 224, 253, 1);
+    color: rgba(3, 40, 98, 1);
+    font-size: 0.7em;
 }
 
 .btn-menu {
